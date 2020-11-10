@@ -1,6 +1,6 @@
-# lint-egg-cli
+# eggjs-template
 
-基于Egg.js，打造开箱即用的Node.js脚手架
+基于Egg.js，打造开箱即用的Node.js模板
 
 
 ### 项目适配改动
